@@ -1,2 +1,3 @@
-# GUI-Python-_tkinter_
-Online Bus Booking Service
+#Bus Bookng System
+
+Implementation using : Python , SQLite , Tkinter for GUI
