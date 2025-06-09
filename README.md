@@ -1,4 +1,4 @@
-<h1>Online Bus Booking System</h1>
+<h1> Bus Booking System</h1>
 
 Implementation using : Python , SQLite , Tkinter for GUI
 
